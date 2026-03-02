@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @soeiroo
-- 👀 I’m interested in Java Programming
-- 🌱 I’m currently just learning whatever appear in my screen
-- 📫 You can message me in discord: concordancia
-<!---
-soeiroo/soeiroo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Pedro Soeiro</h1>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,git,linux" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soeiroo&theme=github-compact&hide_border=true&area=true" />
+</p>
