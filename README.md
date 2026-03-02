@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,java&perline=6" height="40" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,js,java&perline=6" height="40" />
 </p>
